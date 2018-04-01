@@ -13,7 +13,7 @@
     * a minute. Didn't we do this
     * already?
     */
-	 printf("Hello, my name is Ian Heffernan.\n");
+	 printf("Goodbye, I finished my CS 256 HW1.\n");
    
 	 return 0;
  }
