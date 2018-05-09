@@ -1,0 +1,3 @@
+﻿  Game21.cpp
+c:\users\moyenne\source\repos\game21\game21\game21.cpp(21): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game21.vcxproj -> C:\Users\Moyenne\source\repos\Game21\Debug\Game21.exe
