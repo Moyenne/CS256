@@ -1,0 +1,4 @@
+﻿  PersonCustomerData.cpp
+c:\users\moyenne\source\repos\personcustomerdata\personcustomerdata\personcustomerdata.cpp(224): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\moyenne\source\repos\personcustomerdata\personcustomerdata\personcustomerdata.cpp(224): warning C4309: 'argument': truncation of constant value
+  PersonCustomerData.vcxproj -> C:\Users\Moyenne\source\repos\PersonCustomerData\Debug\PersonCustomerData.exe
