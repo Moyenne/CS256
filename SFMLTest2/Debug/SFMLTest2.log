@@ -1,0 +1,18 @@
+﻿  SFMLTest2.cpp
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(100): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(113): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(164): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(168): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(180): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(184): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(196): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(200): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(211): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(215): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(224): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(246): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(324): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(332): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(339): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\moyenne\source\repos\sfmltest2\sfmltest2\sfmltest2.cpp(344): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFMLTest2.vcxproj -> C:\Users\Moyenne\source\repos\SFMLTest2\Debug\SFMLTest2.exe
